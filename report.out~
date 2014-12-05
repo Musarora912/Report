@@ -1,0 +1,77 @@
+\BOOKMARK [0][]{chapter.1}{Introduction To Organisation}{}% 1
+\BOOKMARK [1][]{section.1.1}{Testing and Consutancy Cell}{chapter.1}% 2
+\BOOKMARK [0][]{chapter.2}{LaTeX}{}% 3
+\BOOKMARK [1][]{section.2.1}{Introduction to LaTeX}{chapter.2}% 4
+\BOOKMARK [1][]{section.2.2}{Typesetting}{chapter.2}% 5
+\BOOKMARK [0][]{chapter.3}{Introduction To Project}{}% 6
+\BOOKMARK [1][]{section.3.1}{Overview}{chapter.3}% 7
+\BOOKMARK [1][]{section.3.2}{The Existing System}{chapter.3}% 8
+\BOOKMARK [2][]{subsection.3.2.1}{Software Functions In Existing System}{section.3.2}% 9
+\BOOKMARK [1][]{section.3.3}{Requirement Analysis}{chapter.3}% 10
+\BOOKMARK [2][]{subsection.3.3.1}{Functional Requiremets}{section.3.3}% 11
+\BOOKMARK [2][]{subsection.3.3.2}{Non functional requirements}{section.3.3}% 12
+\BOOKMARK [1][]{section.3.4}{Feasibility Analysis}{chapter.3}% 13
+\BOOKMARK [1][]{section.3.5}{Objective}{chapter.3}% 14
+\BOOKMARK [0][]{chapter.4}{Technologies Used}{}% 15
+\BOOKMARK [1][]{section.4.1}{Django}{chapter.4}% 16
+\BOOKMARK [2][]{subsection.4.1.1}{Features of Django}{section.4.1}% 17
+\BOOKMARK [2][]{subsection.4.1.2}{Installation of Django}{section.4.1}% 18
+\BOOKMARK [2][]{subsection.4.1.3}{MTV}{section.4.1}% 19
+\BOOKMARK [2][]{subsection.4.1.4}{Creating Prject in Django}{section.4.1}% 20
+\BOOKMARK [2][]{subsection.4.1.5}{Development Server in Django}{section.4.1}% 21
+\BOOKMARK [2][]{subsection.4.1.6}{Database setup}{section.4.1}% 22
+\BOOKMARK [2][]{subsection.4.1.7}{Django Applications used :}{section.4.1}% 23
+\BOOKMARK [1][]{section.4.2}{Python}{chapter.4}% 24
+\BOOKMARK [2][]{subsection.4.2.1}{Features of Python}{section.4.2}% 25
+\BOOKMARK [2][]{subsection.4.2.2}{Installation of Python}{section.4.2}% 26
+\BOOKMARK [1][]{section.4.3}{MySQL Database Server}{chapter.4}% 27
+\BOOKMARK [2][]{subsection.4.3.1}{Features of MySQL}{section.4.3}% 28
+\BOOKMARK [2][]{subsection.4.3.2}{Installation of MySQL}{section.4.3}% 29
+\BOOKMARK [1][]{section.4.4}{Apache Web Server}{chapter.4}% 30
+\BOOKMARK [2][]{subsection.4.4.1}{Features of Apache Server}{section.4.4}% 31
+\BOOKMARK [2][]{subsection.4.4.2}{Installation of Apache Server}{section.4.4}% 32
+\BOOKMARK [1][]{section.4.5}{Doxygen}{chapter.4}% 33
+\BOOKMARK [2][]{subsection.4.5.1}{Features of Doxygen}{section.4.5}% 34
+\BOOKMARK [2][]{subsection.4.5.2}{Installation of Doxygen}{section.4.5}% 35
+\BOOKMARK [1][]{section.4.6}{Shell Scripting}{chapter.4}% 36
+\BOOKMARK [2][]{subsection.4.6.1}{Bash}{section.4.6}% 37
+\BOOKMARK [2][]{subsection.4.6.2}{Shell}{section.4.6}% 38
+\BOOKMARK [2][]{subsection.4.6.3}{Shell Scripting?}{section.4.6}% 39
+\BOOKMARK [2][]{subsection.4.6.4}{Features of Shell Scripting}{section.4.6}% 40
+\BOOKMARK [0][]{chapter.5}{Design}{}% 41
+\BOOKMARK [1][]{section.5.1}{System Design}{chapter.5}% 42
+\BOOKMARK [1][]{section.5.2}{Design Notations}{chapter.5}% 43
+\BOOKMARK [1][]{section.5.3}{Detailed Design}{chapter.5}% 44
+\BOOKMARK [0][]{chapter.6}{My Contribution}{}% 45
+\BOOKMARK [1][]{subsection.6.0.1}{Registered Clients Register}{chapter.6}% 46
+\BOOKMARK [2][]{subsection.6.0.2}{Formats of reports}{subsection.6.0.1}% 47
+\BOOKMARK [2][]{subsection.6.0.3}{Phonetic Search}{subsection.6.0.1}% 48
+\BOOKMARK [2][]{subsection.6.0.4}{Implementation of phonetic search}{subsection.6.0.1}% 49
+\BOOKMARK [2][]{subsection.6.0.5}{Future scope}{subsection.6.0.1}% 50
+\BOOKMARK [2][]{subsection.6.0.6}{Implementation}{subsection.6.0.1}% 51
+\BOOKMARK [0][]{chapter.7}{Implementation}{}% 52
+\BOOKMARK [1][]{section.7.1}{Types of Implementation}{chapter.7}% 53
+\BOOKMARK [1][]{section.7.2}{Aspects of Implementation}{chapter.7}% 54
+\BOOKMARK [1][]{section.7.3}{Implementation of the Project}{chapter.7}% 55
+\BOOKMARK [1][]{section.7.4}{Conversion Plan}{chapter.7}% 56
+\BOOKMARK [1][]{section.7.5}{Conversion Processes}{chapter.7}% 57
+\BOOKMARK [1][]{section.7.6}{Elements of User training}{chapter.7}% 58
+\BOOKMARK [1][]{section.7.7}{Post-Implementation and Software Maintenance}{chapter.7}% 59
+\BOOKMARK [1][]{section.7.8}{Review Plan}{chapter.7}% 60
+\BOOKMARK [1][]{section.7.9}{Maintenance}{chapter.7}% 61
+\BOOKMARK [0][]{chapter.8}{Testing}{}% 62
+\BOOKMARK [1][]{section.8.1}{Project Testing}{chapter.8}% 63
+\BOOKMARK [0][]{chapter.9}{Project Legacy}{}% 64
+\BOOKMARK [1][]{section.9.1}{Technical and Managerial Lesson Learnt}{chapter.9}% 65
+\BOOKMARK [1][]{section.9.2}{Current status}{chapter.9}% 66
+\BOOKMARK [1][]{section.9.3}{Future Scope}{chapter.9}% 67
+\BOOKMARK [0][]{chapter.10}{Other Tasks}{}% 68
+\BOOKMARK [1][]{section.10.1}{How to reach GNDEC}{chapter.10}% 69
+\BOOKMARK [2][]{subsection.10.1.1}{Aim Of Project}{section.10.1}% 70
+\BOOKMARK [2][]{subsection.10.1.2}{My Contribution}{section.10.1}% 71
+\BOOKMARK [2][]{subsection.10.1.3}{Tools used}{section.10.1}% 72
+\BOOKMARK [2][]{subsection.10.1.4}{What is HTML}{section.10.1}% 73
+\BOOKMARK [2][]{subsection.10.1.5}{What are Open Street Maps?}{section.10.1}% 74
+\BOOKMARK [2][]{subsection.10.1.6}{Implementation}{section.10.1}% 75
+\BOOKMARK [1][]{section.10.2}{Blog application}{chapter.10}% 76
+\BOOKMARK [2][]{subsection.10.2.1}{Tools used}{section.10.2}% 77

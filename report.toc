@@ -1,0 +1,69 @@
+\contentsline {chapter}{\numberline {1}Introduction To Organisation}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Testing and Consutancy Cell}{2}{section.1.1}
+\contentsline {chapter}{\numberline {2}\LaTeX }{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction to \LaTeX }{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Typesetting}{5}{section.2.2}
+\contentsline {chapter}{\numberline {3}Introduction To Project}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Overview}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}The Existing System}{7}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Software Functions In Existing System}{7}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Requirement Analysis}{8}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Functional Requiremets}{8}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Non functional requirements}{9}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Feasibility Analysis}{9}{section.3.4}
+\contentsline {section}{\numberline {3.5}Objective}{10}{section.3.5}
+\contentsline {chapter}{\numberline {4}Technologies Used}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}Django}{11}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Features of Django}{11}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Installation of Django}{12}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}MTV}{12}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Creating Prject in Django}{12}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Development Server in Django}{13}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Database setup}{13}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Django Applications used :}{14}{subsection.4.1.7}
+\contentsline {section}{\numberline {4.2}Python}{15}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Features of Python}{15}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Installation of Python}{15}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}MySQL Database Server}{16}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Features of MySQL}{16}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Installation of MySQL}{16}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Apache Web Server}{16}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Features of Apache Server}{17}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Installation of Apache Server}{17}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Doxygen}{18}{section.4.5}
+\contentsline {section}{\numberline {4.6}Shell Scripting}{18}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Bash}{18}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Shell}{18}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Shell Scripting?}{18}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Features of Shell Scripting}{18}{subsection.4.6.4}
+\contentsline {chapter}{\numberline {5}Design}{20}{chapter.5}
+\contentsline {section}{\numberline {5.1}System Design}{20}{section.5.1}
+\contentsline {section}{\numberline {5.2}Design Notations}{20}{section.5.2}
+\contentsline {section}{\numberline {5.3}Detailed Design}{22}{section.5.3}
+\contentsline {chapter}{\numberline {6}My Contribution}{29}{chapter.6}
+\contentsline {subsection}{\numberline {6.0.1}Surcharges}{29}{subsection.6.0.1}
+\contentsline {subsection}{\numberline {6.0.2}TOTAL}{29}{subsection.6.0.2}
+\contentsline {subsection}{\numberline {6.0.3}Suspense App}{29}{subsection.6.0.3}
+\contentsline {subsection}{\numberline {6.0.4}Future scope}{29}{subsection.6.0.4}
+\contentsline {subsection}{\numberline {6.0.5}Implementation}{30}{subsection.6.0.5}
+\contentsline {chapter}{\numberline {7}Implementation}{31}{chapter.7}
+\contentsline {section}{\numberline {7.1}Types of Implementation}{31}{section.7.1}
+\contentsline {section}{\numberline {7.2}Aspects of Implementation}{31}{section.7.2}
+\contentsline {section}{\numberline {7.3}Implementation of the Project}{31}{section.7.3}
+\contentsline {section}{\numberline {7.4}Conversion Plan}{32}{section.7.4}
+\contentsline {section}{\numberline {7.5}Conversion Processes}{32}{section.7.5}
+\contentsline {section}{\numberline {7.6}Elements of User training}{32}{section.7.6}
+\contentsline {section}{\numberline {7.7}Post-Implementation and Software Maintenance}{32}{section.7.7}
+\contentsline {section}{\numberline {7.8}Review Plan}{32}{section.7.8}
+\contentsline {section}{\numberline {7.9}Maintenance}{33}{section.7.9}
+\contentsline {chapter}{\numberline {8}Testing}{34}{chapter.8}
+\contentsline {section}{\numberline {8.1}Project Testing}{34}{section.8.1}
+\contentsline {chapter}{\numberline {9}Project Legacy}{35}{chapter.9}
+\contentsline {section}{\numberline {9.1}Technical and Managerial Lesson Learnt}{35}{section.9.1}
+\contentsline {section}{\numberline {9.2}Current status}{35}{section.9.2}
+\contentsline {section}{\numberline {9.3}Future Scope}{36}{section.9.3}
+\contentsline {chapter}{\numberline {10}Other Tasks}{37}{chapter.10}
+\contentsline {subsection}{\numberline {10.0.1}Aim Of Blogging}{37}{subsection.10.0.1}
+\contentsline {subsection}{\numberline {10.0.2}Reporting}{37}{subsection.10.0.2}
+\contentsline {subsection}{\numberline {10.0.3}What is HTML}{37}{subsection.10.0.3}
+\contentsfinish 

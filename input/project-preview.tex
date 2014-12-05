@@ -1,0 +1,248 @@
+\section{Overview}
+LibreHatti is the use of machines, control systems and Information 
+Technologies to optimize productivity in the production of goods and 
+delivery of services.
+
+LibreHatti is intended to provide elements which make it possible 
+to simplify, improve, and automate the organization of the
+activities of a company or a group of people.
+
+We show our ingenuity everyday through our associates' high level of 
+performance. We provide solutions to help our clients improve internal 
+processes, save money and deliver results. That is ``ingenuity at work".\\
+
+LibreHatti is all about using the computer to:
+\begin{itemize}
+\item Make your work less tedious. 
+\item Trim hours off your workload.
+\item Reduce repetitive keyboard strokes or mouse-clicks.
+\item Make data entry easier with fewer tabs or mouse movements.
+\item Take any job you do longhand and make the computer do it for you.
+\end{itemize}
+
+The use of computer systems to execute a variety of office operations, 
+such as word processing, accounting, and e-mail refers to what we call 
+automation. LibreHatti is type of automation software that almost always implies a network of 
+computers with a variety of available programs. LibreHatti helps in 
+optimizing or automating existing office procedures.
+
+{\bf LibreHatti} Software is a Web Application Software for easy, quick, 
+and secure date processing that will automate the tasks of a Testing 
+\& Consultancy Cell or any other Similare office. This involves 
+maintaining information of client, verifying information provided by 
+client, entering the jobs and then getting the Receipt Bill and Voucher 
+automatically generated.
+
+It is an enterprise software, so it is distributed and data centric. 
+In this application, MySQL database will be used to store data related 
+to employees, material, jobs, labs, tests, clients, amounts etc. Since 
+database is on Server, so any number of users can work simultaneously 
+and can share their data with each other. It is developed using Django, 
+Python, HTML, CSS and JavaScript.
+\section{The Existing System}
+
+The Software running today does all the entry and management of the Jobs, all done by Consultancy employees. The existing system manage the generation of Bill, Recipts and Vouchers very efficiently.\\\\
+{\bf {Limitations of previous system }}
+\begin{itemize}
+\item There was no option to calculate organisation's share in total income.
+
+\item Search was poor.
+
+\item No option to see all registered clients on one click.
+
+\item It was difficult to add more than one non-payment jobs for single client. 
+Every time they had to search client and then add job.
+
+\item \lq\lq Note\rq\rq section in performa bill was static.
+
+\item There was no option to search transport bills.
+
+\item Confirm job option was not working.
+\end{itemize}
+
+\subsection{Software Functions In Existing System}
+\vskip 0.5cm
+\begin{description}
+\item[\bf{Registeration \& Login}:]
+The software user would be required to Register through a screen. After 
+authentication and login he would be able to access only those areas 
+for which he is capable to access.
+\item[\bf{Administrator Maintenance}:]
+Administrator can add or update the details, and also can see 
+information of all employees and can see his or her information. New 
+Database table information can also be added.
+\item[\bf{Employee Maintenance}:]
+As employees are directly related to clients, so they are able to add 
+or update the details of clients using this section. Admin can see all 
+the clients. Employees can manage their clients only.
+\item[\bf{Client Maintenance}:]
+Clients are the end users that benefit from the LibreHatti Software. 
+A client can get information of all the available work done in Testing 
+\& Consultancy Cell also apply for same. They can also view the status 
+of their previous works done in the Cell.
+\item[\bf{Catalog}:]
+Using the Catalog, the clients can get an estimate of price for all the 
+tests done in the Cell. Catalog lists down all the works done in the Cell.
+\item[\bf{Report Generation}:]
+The Report generation for a material tested is made easier now. The 
+reports generated can then be downloaded in pdf format and then can be 
+given to the repective clients.
+\end{description}
+\section{Requirement Analysis}
+A Software Requirements Analysis for a software system is a complete 
+description of the behavior of a system to be developed. It includes 
+a set of use cases that describe all the interactions the users will 
+have with the software. In addition to use cases, the SRS also contains 
+non-functional requirements. Non-functional requirements are 
+requirements which impose constraints on the design or implementation.
+\begin{itemize}
+
+\item{\bf Users of the System}
+\begin{itemize} 
+\item Administrator : Administrator can add or update 
+(activate/inactivate) the details, and also can see information of all 
+employees and can see his or her information. New labs, materials or 
+tests can be added or the existing can also be updated.
+\item Employee : As employees are directly related to clients, so they 
+are able to add or update the details of clients using this section. 
+Administrator can see all the clients. Employees can manage their 
+clients only, and particular client can see his or her detail.
+\item Client : Clients are the end users that benefit from the 
+LibreHatti Software. A client can get information of all services 
+available, and thus can apply for same. They can also view the status 
+of the number of the previous jobs done by them in the Organisation.
+\end{itemize}
+\end{itemize}
+\subsection{Functional Requiremets}
+\begin{itemize}
+\item {\bf Specific Requirements}: This phase covers the whole requirements 
+for the system. After understanding the system we need the input data 
+to the system then we watch the output and determine whether the output 
+from the system is according to our requirements or not. So what we have 
+to input and then what we’ll get as output is given in this phase. This 
+phase also describe the software and non-function requirements of the 
+system.
+\item {\bf Input Requirements of the System}
+\begin{itemize} 
+\item Client Details
+\item Job Details
+\item Extra Charges Details
+\item Lab Details
+\item Organisation \& Department Details
+\item Rate List
+\item Staff Details
+\end{itemize}
+\vskip 0.5cm
+\item {\bf Output Requirements of the System}
+\begin{itemize} 
+\item Interface for administrator to configure the system.
+\item Listing of all the services offered.
+\item Interface for clients and employees.
+\item Automatic generation of Reports, Bills, Receipts, and Vouchers 
+for clients.
+\item Calculation of Job amount.
+\item Generation of Registers with Certain requirements.
+\end{itemize}
+\vskip 0.5cm
+\item {\bf Special User Requirements}
+\begin{itemize} 
+\item Automatic Email Generation and Sending to the concerned person.
+\end{itemize}
+\vskip 0.5cm
+\item {\bf Software Requirements}
+\begin{itemize} 
+\item Programming language: Python 2.7
+\item Framework: Django 1.4 
+\item Web Languages: Html, Java Script, CSS 
+\item Database: MySQL Database Server 5.1 
+\item Documentation: Doxygen 1.8.3
+\item Text Editor: Gedit, Geany, Vim
+\item Operating System: Ubuntu 12.04 or up
+\item Debugger: Django Debugger, Django shell, Terminal
+\item Web Server: Apache 2.4
+\end{itemize}
+\vskip 0.5cm
+\subsection{Non functional requirements}
+\begin{itemize} 
+\item Scalability: System should be able to handle a number of users. 
+For e.g., handling around thousand users at the same time.
+\item Usability: Simple user interfaces that a layman can understand.
+\item Speed: Speed of the system should be responsive i.e. Response to
+ a particular action should be available in short period of time. For 
+e.g., Updating the project tasks take few seconds for the changes if 
+the entry is not starred.
+\end{itemize}
+\end{itemize}
+\section{Feasibility Analysis}
+Feasibility analysis aims to uncover the strengths and weaknesses of 
+a project. In its simplest term, the two criteria to judge feasibility 
+are cost required and value to be attained. As such, a well-designed 
+feasibility analysis should provide a historical background of the 
+project, description of the project or service, details of the 
+operations and management and legal requirements. Generally, feasibility 
+analysis precedes technical development and project implementation. 
+There is some feasibility factors by which we can determine that 
+project is feasible or not:
+\begin{itemize}
+\item {\bf{Technical feasibility}}: Technological feasibility is carried 
+out to determine whether the project has the capability, in terms of 
+software, hardware, personnel to handle and fulfill the user 
+requirements. The assessment is based on an outline design of system 
+requirements in terms of Input, Processes, Output and Procedures. LibreHatti Software is technically feasible as it is built up in Open 
+Source Environment and thus it can be run on any Open Source platform.
+\item {\bf{Economic feasibility}}: Economic analysis is the most 
+frequently used method to determine the cost/benefit factor for 
+evaluating the effectiveness of a new system. In this analysis we 
+determine whether the benefit is gain according to the cost invested 
+to develop the project or not. If benefits outweigh costs, only then 
+the decision is made to design and implement the system. It is 
+important to identify cost and benefit factors, which can be categorized 
+as follows:
+\begin{itemize}
+\item Development costs.
+\item Operating costs.
+\end{itemize}
+LibreHatti Software is also Economically feasible with 0 Development 
+and Operating Charges as it is developed in Django framework and python 
+language which is FOSS technology and the software is operated on Open 
+Source platform.
+\item {\bf {Legal feasibility}}: In this type of feasibility study we 
+basically determines whether the project conflicts with legal 
+requirements, e.g. a data processing system must comply with the local 
+Data Protection Acts. But LibreHatti Software has been developed 
+for the Office Automation process with properly Licensed technologies. 
+Thus is the legal process.
+\item {\bf{Operational feasibility}}: Operational feasibility is a measure 
+of how well a project solves the problems, and takes advantage of the 
+opportunities identified during scope definition and how it satisfies 
+the requirements identified in the requirements analysis phase of system 
+development. All the Operations performed in the software are very quick 
+and satisfies all the reuirements.
+\item {\bf{Behavior Feasibility}}: In this feasibility we check about the 
+behavior of the proposed system software i.e. whether the proposed 
+project is user friendly or not, whether users can use the project 
+without any training because of the user friendliness or not. LibreHatti Software is very user friendly as it user interacts with it 
+through web.
+\end{itemize}
+\section{Objective}
+LibreHatti Software is a web based software and the 
+main purpose of this project is to:
+\begin{itemize}
+\item Perform most of the task of Testing \& Consultancy Cell online 
+and make it dynamic.
+\item Make the Registration and Searching easier.
+\item Automatic calculation of the amount for the work done.
+\item Reduce the dependencies between people involved with the process.
+\item Increasing the transparency.
+\end{itemize}
+LibreHatti Software is basically 
+designed for those companies or Organisations which provide different 
+types of services to all types of clients. Keeping track of different 
+works done by different clients and then getting all the reports of 
+the work done is not an easy job. To make these tasks easy with all 
+functions performed quickly,LibreHatti Software will be quiet helpful.
+
+Administrator will be the super user of the application who will 
+configure system information such as adding new products and there 
+information or editing or deleting the old ones, managing employees 
+and clients.

@@ -1,0 +1,94 @@
+\documentclass[12pt]{report}
+\usepackage[print,nopanel]{pdfscreen}
+\usepackage{makeidx}
+  
+  \makeindex
+\begin{print}
+\usepackage{lipsum}% http://ctan.org/pkg/lipsum
+\usepackage{titletoc}% http://ctan.org/pkg/titletoc
+\titlecontents*{chapter}% <section-type>
+  [0pt]% <left>
+  {}% <above-code>
+  {\bfseries\chaptername\ \thecontentslabel\quad}% <numbered-entry-format>
+  {}% <numberless-entry-format>
+  {\bfseries\hfill\contentspage}% <filler-page-format>
+
+\usepackage{lastpage}
+\usepackage{macro/macro}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+%Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
+\usepackage[Glenn]{fncychap}
+\lhead{\large\bfseries Librehatti}
+\usepackage[left=2.5cm, right=1.5cm, top=2.5cm, bottom=1.5cm]{geometry}
+\pagestyle{fancy}
+\end{print}
+\margins{.5cm}{.5cm}{.5cm}{.5cm}
+\begin{screen}
+
+\renewcommand{\encodingdefault}{T1}
+\usepackage{setspace}
+\linespread{1.5}
+\renewcommand{\rmdefault}{ptm}
+\end{screen}
+\screensize{8cm}{9cm}
+\overlay{overlay8.pdf}
+\usepackage{graphicx}
+
+\begin{document}
+\input{input/titlepage.tex}
+\begin{screen}
+\ppttitle
+\end{screen}
+\footskip 0.7cm
+\thispagestyle{empty} 
+\pagetitle
+\newpage
+\pagenumbering{roman}
+\cfoot{\thepage}
+
+\input{input/acknowledgement.tex}
+\newpage
+
+\input{input/abstract.tex}
+
+\newpage
+\tableofcontents
+\newpage
+\listoffigures
+\newpage
+
+\pagenumbering{arabic}
+\cfoot{\thepage}
+
+\newpage
+\chapter{Introduction To Organisation}
+\input{input/organisation.tex}
+\newpage
+\chapter{\LaTeX}
+\input{input/latex.tex}
+\newpage
+\chapter{Introduction To Project}
+\input{input/project-preview.tex}
+\newpage
+%\chapter{My Project}
+\input{input/myproject.tex}
+%\input{input/tools.tex}
+%\input{input/design.tex}
+%\newpage
+\newpage
+%\section{Implementation}
+%\input{input/implementation.tex}
+\chapter{Other Tasks}
+\input{input/extra-work.tex}
+
+\input{input/bibliography.tex}
+\begin{screen}
+%\newpage
+%\input{input/link.tex}
+\end{screen}
+
+\end{document}
+
